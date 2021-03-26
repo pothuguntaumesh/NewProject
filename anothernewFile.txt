@@ -1,0 +1,3 @@
+This is another file to understand how staging works
+
+Newly added line
